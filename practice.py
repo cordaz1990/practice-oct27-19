@@ -1,2 +1,2 @@
 print("World")
-pri
+prin

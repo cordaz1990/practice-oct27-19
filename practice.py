@@ -1,1 +1,1 @@
-print("World")s
+print("World")

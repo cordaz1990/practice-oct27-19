@@ -15,7 +15,7 @@ def find_two_smallest(L: [float]) -> Tuple[int, int]:
     #Find the indices in the original list L
     min1 = L.index(smallest)
     min2 = L index(next_smallest)
-    
+     
     return(min1, min2)
   
   
